@@ -26,6 +26,9 @@ platformdirs==3.11.0
 pydicom==2.4.3
 pylint==3.0.2
 pyparsing==3.1.1
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.13.0
 python-dateutil==2.8.2
 pytz==2023.3.post1
 scikit-image==0.22.0
