@@ -4,3 +4,5 @@ export QT_QPA_PLATFORM := wayland
 unittest:
 		$(PY) -m unittest $(SRC)/test_*.py
 
+app:
+		/home/mohsen/envs/py/carotid-plaque/env_home_linux_3.11/bin/python carotid/app.py
